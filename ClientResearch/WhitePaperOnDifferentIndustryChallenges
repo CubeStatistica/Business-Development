@@ -1,4 +1,3 @@
-Write a paper on Top 5 challenges in the different industries.
 Data is collected by LinkedIn outreach.
 Plan of action:
 1. Collect the data
@@ -48,6 +47,7 @@ p.
 ## Conclusion
 Industries have challenges.
 ## Methodology
+Plan of action: 1. Collect the data
 1. Positioned the environment of Cube Statistica as a statistical consulting company with data-centered services.
 2. Conceptualized list of industries that are data-demanded to form a potential double-coincidence of wants.
 3. Curtailed to fintech, digital marketing, and healthcare industries to further investigate.
@@ -71,6 +71,18 @@ squares, linear regression, logistic regression, artificial neural network, mult
 information theory, artificial intelligence).
 15. Concluded
 16. Identified limitations
+
+## Methodology
+Plan of action: 2. Analyze and visualize the data
+1. Downloaded Tableau as it is friendly to multiple servers.
+2. Viewed Tableau tutorials to understand tool functions.
+3. Performed similar tasks as in the tutorials to get hand-on experience.
+4. Imported raw data collected.
+5. Utilized data science acumen to develop assumptions on any dependent or independent variables.
+6. Tested the assumption by entering relevant variables for analyzing.
+7. Observed the graph until analyzable pattern appears.
+8. Linked patterns with Research Question or market situation for bringing a broader view.
+9. Facts should emerge from the data and actionable suggestions should be arise from data analytics.
 
 
 ## Results
