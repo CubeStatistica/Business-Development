@@ -153,7 +153,9 @@ The growth rate of sample size soars then slows down as more people are reached 
 mark for the outreach process, and concentrate on the quantative analysis of the collected data to generate a more accurate market guidance for data 
 application services business, as Cube Statistica.
 
-With variables 'Name', ''
+With variables 'Reachout Date', 'Name', 'Position', 'CompanyStartTime', 'PositionStartTime',	'Location',	'Gender', 'CompanyName', 'Industry', 'Status',
+'Reply', 'W/Message', 'Potentially', and 'University', I believe the variables have enough abundance to generate an analysis, with a combination of both
+qualitative and quantitative.
 
 Plan of action: 
 1. Collect the data
